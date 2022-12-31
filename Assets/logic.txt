@@ -1,0 +1,3 @@
+insert: -> n , arr
+if n is 0, stop running
+if n is 
